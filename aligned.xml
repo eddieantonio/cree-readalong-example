@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI>
+    <!-- To exclude any element from alignment, add the do-not-align="true" attribute to
+         it, e.g., <p do-not-align="true">...</p>, or
+         <s>Some text <foo do-not-align="true">do not align this</foo> more text</s> -->
+    <text xml:lang="crk" id="t0">
+        <body id="t0b0">
+            <div type="page" id="t0b0d0">
+                <p id="t0b0d0p0">
+                    <s id="t0b0d0p0s0"><w id="t0b0d0p0s0w0">kikiskamohkan</w> <w id="t0b0d0p0s0w1">âkohkwênikanêkin</w>: <w id="t0b0d0p0s0w2">kihcêyim</w> <w id="t0b0d0p0s0w3">kiwîci</w>-<w id="t0b0d0p0s0w4">ayisiyiniw</w> <w id="t0b0d0p0s0w5">kâ</w>-<w id="t0b0d0p0s0w6">itohtêyan</w> <w id="t0b0d0p0s0w7">ayisiyinînahk</w>.</s>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

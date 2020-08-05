@@ -1,0 +1,36 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+    <body>
+        <par id="par-t0b0d0p0s0w0">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w0"/>
+            <audio src="aligned1596655758.wav" clipBegin="0.605" clipEnd="1.99"/>
+        </par>
+        <par id="par-t0b0d0p0s0w1">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w1"/>
+            <audio src="aligned1596655758.wav" clipBegin="1.99" clipEnd="3.855"/>
+        </par>
+        <par id="par-t0b0d0p0s0w2">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w2"/>
+            <audio src="aligned1596655758.wav" clipBegin="3.855" clipEnd="5.24"/>
+        </par>
+        <par id="par-t0b0d0p0s0w3">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w3"/>
+            <audio src="aligned1596655758.wav" clipBegin="5.24" clipEnd="5.7700000000000005"/>
+        </par>
+        <par id="par-t0b0d0p0s0w4">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w4"/>
+            <audio src="aligned1596655758.wav" clipBegin="5.7700000000000005" clipEnd="6.734999999999999"/>
+        </par>
+        <par id="par-t0b0d0p0s0w5">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w5"/>
+            <audio src="aligned1596655758.wav" clipBegin="6.734999999999999" clipEnd="7.17"/>
+        </par>
+        <par id="par-t0b0d0p0s0w6">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w6"/>
+            <audio src="aligned1596655758.wav" clipBegin="7.17" clipEnd="8.095"/>
+        </par>
+        <par id="par-t0b0d0p0s0w7">
+            <text src="aligned1596655758.xml#t0b0d0p0s0w7"/>
+            <audio src="aligned1596655758.wav" clipBegin="8.095" clipEnd="10.275"/>
+        </par>
+    </body>
+</smil>
